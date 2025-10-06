@@ -16,7 +16,7 @@ const Vennar = () => {
                     </div>
                 </div>
                 {/* <div className="md:w-[585px] "> */}
-                    <img src={VennarJpg} alt={"VennarJpg"} className={"h-[450px]  mt-10  md:h-[590px]  rounded-2xl"}></img>
+                    <img src={VennarJpg} alt={"VennarJpg"} className={"h-[450px] sm:w-[500px] mt-10  md:h-[590px]  rounded-2xl"}></img>
                 {/* </div> */}
             </Flex>
         </Container>
