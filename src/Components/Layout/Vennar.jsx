@@ -9,7 +9,7 @@ const Vennar = () => {
         <Container>
             <Flex className={"flex-col md:flex-row"}>
                 <div className="md:w-[590px]">
-                     <h1 className="font-inter font-semibold text-[80px] text-cyan-50 leading-[100px] md:font-inter md:font-bold md:text-[55px] md:text-cyan-50 md:leading-[80px]">We Are Digital Product Design Agency</h1>
+                     <h1 className="font-inter font-semibold text-[80px] text-cyan-50 leading-[100px] md:font-inter md:font-bold text-2xl md:text-[55px] md:text-cyan-50 md:leading-[80px]">We Are Digital Product Design Agency</h1>
                      <p className="font-inter text-[36px] leading-[50px] text-cyan-50 py-4 md:font-inter md:text-[18px] md:leading-[27px] md:text-cyan-50 md:py-4">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                     <div className="sm:text-center md:text-left pt-4">
                         <a href="#" className=" px-4 py-4 bg-white rounded-lg font-inter font-medium text-18 text-cyan-950 hover:bg-blue-500">Get Started</a>

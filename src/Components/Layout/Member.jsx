@@ -2,9 +2,9 @@ import React from 'react'
 import Container from '../../Container'
 import Flex from '../../Flex'
 import Images from '../../Images'
-import MemberJpg1 from "../../assets/516.jpg"
-import MemberJpg2 from "../../assets/517.jpg"
-import MemberJpg3 from "../../assets/518.jpg"
+import MemberJpg1 from "../../assets/teem member pexel.jpg"
+import MemberJpg2 from "../../assets/teem member pexel-2 .jpg"
+import MemberJpg3 from "../../assets/teem member pexel-3.jpg"
 const Member = () => {
   return (
     <>
